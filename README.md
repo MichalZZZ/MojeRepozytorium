@@ -1,1 +1,3 @@
 # MojeRepozytorium
+
+nowa linia
